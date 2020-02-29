@@ -4,7 +4,7 @@ layout: default
 
 # Closing Spring 2020
 
-After declining attendance and less giving, the leadership team was forced to ask, "Should we continue to exist as a church?" After prayer, conversations, and soul searching, the answer seems to be, "No."
+After declining attendance and less giving, the leadership team was forced to ask, **_"Should we continue to exist as a church?"_** After prayer, conversations, and soul searching, the answer seems to be, **_"No."_**
 
 ## Current Schedule
 *   Mar 1 - First Sunday
