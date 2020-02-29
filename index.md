@@ -6,7 +6,7 @@ layout: default
 
 After declining attendance and less giving, the leadership team was forced to ask, "Should we continue to exist as a church?" After prayer, conversations, and soul searching, the answer seems to be, "No."
 
-## Upcoming Schedule
+## Current Schedule
 *   Mar 1 - First Sunday
 *   Mar 8 - Memories Sunday
 *   Mar 15 - Worship Sunday
